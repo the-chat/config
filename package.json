@@ -1,0 +1,13 @@
+{
+  "name": "@the-chat/config",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "rm -rf dist&&tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": "git://github.com/the-chat/config",
+  "license": "MIT"
+}
