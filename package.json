@@ -9,5 +9,11 @@
     "dist"
   ],
   "repository": "git://github.com/the-chat/config",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "devDependencies": {
+    "firebase-admin": "^10.0.2"
+  }
 }
