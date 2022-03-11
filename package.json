@@ -1,6 +1,6 @@
 {
   "name": "@the-chat/config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "rm -rf dist&&tsc"
