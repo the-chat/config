@@ -1,6 +1,6 @@
 export * from "./firebase"
 export * as SSO from "./SSO"
 export * as INFO from "./INFO"
-export * as MESSAGES from "./MESSAGES"
+export * as MESSAGE_PAGE_PATHS from "./MESSAGE_PAGE_PATHS"
 export * from "./CONSUMERS_URLS"
 export const DEFAULT_LOCALE = "en"
